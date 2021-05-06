@@ -7,8 +7,7 @@ basic.forever(function () {
         . . . . .
         `)
     basic.pause(1000)
-    // # PANTERA ,GATO #
-    // 
+    // #PANTERA,GATO#
     basic.showLeds(`
         # # . . .
         # . . . .
